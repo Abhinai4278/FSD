@@ -1,0 +1,12 @@
+package pack2;
+import pack1.DefAccessSpecifier;
+public class Test {
+
+	public static void main(String[] args) {
+		DefAccessSpecifier accessSpecifier = new DefAccessSpecifier();
+		accessSpecifier.display();
+		
+
+	}
+
+}

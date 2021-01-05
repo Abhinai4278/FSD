@@ -1,0 +1,9 @@
+package pack1;
+
+class DefAccessSpecifier {
+void display()
+{
+System.out.println("I am default method!");
+
+}
+}

@@ -1,0 +1,8 @@
+package pack3;
+
+public class PrivateAccSpecifier {
+private void display()
+{
+	System.out.println("");
+}
+}

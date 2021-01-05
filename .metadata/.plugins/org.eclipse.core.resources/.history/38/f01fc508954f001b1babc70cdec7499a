@@ -1,0 +1,10 @@
+package pack4;
+
+public class BaseClass {
+ 
+	protected int i =10;
+	protected int display() {
+		System.out.println("Inside P display");
+		return i;
+	}
+}
